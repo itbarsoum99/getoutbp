@@ -249,7 +249,10 @@ a:hover {
     width: 80vw;
   }
   .box h3 {
-    font-size: 300%;
+    font-size: 200%;
   }
+#actions div {
+    margin: 1em;
+}
 
 }
