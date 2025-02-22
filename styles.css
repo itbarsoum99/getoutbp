@@ -135,6 +135,7 @@ a:hover {
 	flex-flow: row wrap;
 	align-items: center;
 	justify-content: center;
+  margin: 0 2em;
 }
 
 .event-info > div {
@@ -239,4 +240,15 @@ a:hover {
   main {
       font-size: 200%;
   }
+  h2 {
+    font-size: 180px;
+  }
+  h3 {
+    font-size: initial;
+  }
+  #actions div h3 em {
+  border: 2px solid black;
+  padding: 10px;
+  border-radius: 4px;
+}
 }
