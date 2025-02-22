@@ -249,7 +249,7 @@ a:hover {
     width: 80vw;
   }
   .box h3 {
-    font-size: initial;
+    font-size: 300%;
   }
 
 }
