@@ -193,9 +193,7 @@ a:hover {
 }
 
 #actions div h3 em {
-  border: 1px solid black;
-  padding: 6px;
-  border-radius: 4px;
+  text-decoration: underline;
 }
 
 #actions div img {
@@ -247,19 +245,11 @@ a:hover {
   h3 {
     font-size: x-large;
   }
-  #actions div h3 em {
-    border: 2px solid black;
-  padding: 10px;
-  border-radius: 4px;
-}
 .box {
     width: 80vw;
   }
-#top {
-    min-height: 100vh;
-}
-main section {
-  min-height: 60vh;
-}
+  .box h3 {
+    font-size: initial;
+  }
 
 }
