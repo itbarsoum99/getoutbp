@@ -246,7 +246,7 @@ a:hover {
     font-size: x-large;
   }
 .box {
-    width: 80vw;
+    max-width: 80vw;
   }
   .box h3 {
     font-size: 175%;
@@ -255,6 +255,9 @@ a:hover {
     margin: 1em;
     width: 80vw;
     padding: 2em;
+}
+#research h3 {
+font-size: 150%;
 }
 
 }
