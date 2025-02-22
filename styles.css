@@ -232,7 +232,7 @@ a:hover {
 }
 
 @media (pointer: none), (pointer: coarse) {
-  #events  img {
+  #events {
       display: none;
   }
   main {
@@ -253,7 +253,7 @@ a:hover {
   }
 #actions div {
     margin: 1em;
-    width: 80vw;
+    width: 80vw !important;
     padding: 2em;
 }
 #research h3 {
