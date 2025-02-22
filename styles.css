@@ -231,3 +231,12 @@ a:hover {
   text-align: center;
   padding: 0 2em;
 }
+
+@media (pointer: none), (pointer: coarse) {
+  #events  img {
+      display: none;
+  }
+  main {
+      font-size: 200%;
+  }
+}
