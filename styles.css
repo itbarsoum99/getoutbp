@@ -235,7 +235,7 @@ a em:hover {
   padding: 0 2em;
 }
 
-@media (pointer: none), (pointer: coarse) {
+@media (pointer: none) and (orientation: portrait), (pointer: coarse) and (orientation: portrait) {
   #events {
       display: none;
   }
