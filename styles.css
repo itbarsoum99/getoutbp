@@ -246,14 +246,17 @@ a:hover {
     font-size: x-large;
   }
 .box {
-    width: 80vw;
+    width: 75vw;
   }
   .box h3 {
     font-size: 175%;
   }
+#actions {
+  padding: 0;
+}
 #actions div {
     margin: 1em;
-    width: 80vw !important;
+    width: 75vw !important;
     padding: 2em;
 }
 #research h3 {
