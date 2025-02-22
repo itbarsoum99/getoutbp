@@ -214,9 +214,9 @@ a:hover {
 
 #research h2 {
   line-height: 100%;
-  width: 100vw;
   text-align: center;
   color: #fdf5e1;
+  padding: 0 2em;
 }
 
 #research a {
@@ -246,7 +246,7 @@ a:hover {
     font-size: x-large;
   }
 .box {
-    max-width: 80vw;
+    width: 80vw;
   }
   .box h3 {
     font-size: 175%;
