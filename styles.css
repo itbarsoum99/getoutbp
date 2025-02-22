@@ -246,6 +246,11 @@ a:hover {
   }
 .box {
     width: 75vw;
+    margin: 1em;
+    margin-top: 0em;
+  }
+  .box:nth-of-type(1) {
+    margin-top: 1em;
   }
   .box h3 {
     font-size: 170%;
