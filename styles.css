@@ -87,7 +87,7 @@ html, body {
 	text-align: center;
 	background-color: #2e5e47;
 	color: #fdf5e1;
-	margin: 1em;
+	margin: 1em 2em;
 	display: flex;
 	align-items: top;
 	padding: 2.5em;
@@ -249,10 +249,12 @@ a:hover {
     width: 80vw;
   }
   .box h3 {
-    font-size: 200%;
+    font-size: 175%;
   }
 #actions div {
     margin: 1em;
+    width: 80vw;
+    padding: 2em;
 }
 
 }
