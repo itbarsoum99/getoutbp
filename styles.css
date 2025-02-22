@@ -109,6 +109,10 @@ a:hover {
 	cursor: pointer;
 }
 
+a *:hover {
+  cursor: pointer:
+}
+
 .box h3 {
 	font-size: 25px;
 	font-weight: 200;
