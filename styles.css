@@ -240,7 +240,6 @@ a:hover {
   }
   h2 {
     height: 100%;
-    font-size: auto;
   }
   h3 {
     font-size: x-large;
@@ -249,7 +248,7 @@ a:hover {
     width: 75vw;
   }
   .box h3 {
-    font-size: 175%;
+    font-size: 170%;
   }
 #actions {
   padding: 0;
@@ -258,6 +257,8 @@ a:hover {
     margin: 1em;
     width: 75vw !important;
     padding: 2em;
+    flex-basis: default;
+    flex-grow: default;
 }
 #research h3 {
 font-size: 150%;
