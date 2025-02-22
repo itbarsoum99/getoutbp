@@ -240,6 +240,7 @@ a:hover {
   }
   h2 {
     height: 100%;
+    margin-block: 0.2em;
   }
   h3 {
     font-size: x-large;
@@ -264,22 +265,30 @@ a:hover {
     padding: 2em;
     flex-basis: auto;
     flex-grow: revert;
-    border: 2px solid #2e5e47;
+    border: 3px solid #000;
+    background-color: transparent;
 }
+
 #actions div h3 {
   font-size: 80px;
   margin-block: 0.3em;
 }
+
 #actions div p {
   font-size: 130%;
   text-align: center;
 }
+
 #research h3 {
-font-size: 150%;
+  font-size: 150%;
 }
+
 #action-section {
   background-color: #dbd9ff;
 }
 
+#action-section h2 {
+  color: #000;
+}
 
 }
