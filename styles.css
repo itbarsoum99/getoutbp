@@ -241,14 +241,19 @@ a:hover {
       font-size: 200%;
   }
   h2 {
-    font-size: 180px;
+    height: 100%;
+    font-size: auto;
   }
   h3 {
     font-size: x-large;
   }
   #actions div h3 em {
-  border: 2px solid black;
+    border: 2px solid black;
   padding: 10px;
   border-radius: 4px;
 }
+.box {
+    width: 80vw;
+  }
+
 }
