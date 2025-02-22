@@ -265,6 +265,13 @@ a:hover {
     flex-basis: auto;
     flex-grow: revert;
 }
+#actions div h3 {
+  font-size: 80px;
+}
+#actions div p {
+  font-size: 130%;
+  text-align: center;
+}
 #research h3 {
 font-size: 150%;
 }
