@@ -255,5 +255,11 @@ a:hover {
 .box {
     width: 80vw;
   }
+#top {
+    min-height: 100vh;
+}
+main section {
+  min-height: 60vh;
+}
 
 }
