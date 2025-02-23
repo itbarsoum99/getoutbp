@@ -235,6 +235,12 @@ a em:hover {
   padding: 0 2em;
 }
 
+#report-link {
+  background-color: #ffff61;
+  color: #000 !important;
+  padding: 1px;
+}
+
 @media (pointer: none) and (orientation: portrait), (pointer: coarse) and (orientation: portrait) {
   #events {
       display: none;
@@ -285,6 +291,8 @@ a em:hover {
 #research h3 {
   font-size: 150%;
 }
+
+
 
 #action-section {
   background-color: #dbd9ff;
